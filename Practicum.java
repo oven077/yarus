@@ -3,6 +3,7 @@ public class Practicum {
         Object anyObject = new Person("������");
         int i = 1;
         System.out.println(anyObject);
+        //qwer
 
     }
 }
