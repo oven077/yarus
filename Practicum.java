@@ -10,7 +10,8 @@ public class Practicum {
 
 class Person {
     private String name;
-
+    // новая строка
+    private String testName;
     public Person(String name) {
         this.name = name;
     }
